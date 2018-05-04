@@ -1,6 +1,5 @@
 ---
-name: 'name: ajsdhakjshdkajhsd kajshd kjahsdk jahsd kjahsdkjhjks haskj dhaksjdhakjsdh
-  a kjskajshdkjagggggggX basdkj akjshd'
+name: bug report
 about: ajsdhakjshdkajhsd kajshd kjahsdk jahsd kjahsdkjhjks haskj dhaksjdhakjsdh a
   kjskajshdkja hsdkjhas kdjhaskj dakjsdh akj dhajksdh ajskhd
 
